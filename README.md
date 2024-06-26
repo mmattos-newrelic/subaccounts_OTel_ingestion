@@ -1,6 +1,6 @@
 # subaccounts_service_ingestion
 
-Sample code to bring services ingestion by subaccount
+Sample code to bring services ingestion info by subaccount
 
 - This code was built using node.js
 - What do you need?

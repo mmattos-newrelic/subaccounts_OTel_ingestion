@@ -1,4 +1,4 @@
-# subaccounts_service_ingestion
+# subaccounts_OTel_ingestion
 
 Sample code to bring services ingestion info by subaccount
 
